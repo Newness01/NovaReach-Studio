@@ -78,19 +78,3 @@ src/
 		assets.js
 ```
 
-## Suggested Project Names
-
-If you want a different brand name, good options for this site include:
-
-- NovaReach Studio
-- BrightPulse Agency
-- PixelBloom Digital
-- EchoCraft Media
-- Northstar Creative
-
-## Customization
-
-- Update the logo and brand text in the navbar and footer
-- Replace placeholder team data and project images with your own content
-- Adjust colors, spacing, and animations in the Tailwind classes
-- Edit the contact form copy to match your business goals
